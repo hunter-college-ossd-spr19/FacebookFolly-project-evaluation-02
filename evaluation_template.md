@@ -1,9 +1,9 @@
-**Project Name**: 
+**Project Name**: Folly
 
 
 ---
 
-**Evaluating Team** (list members):
+**Evaluating Team** (list members): Elijah Augustin
 
 ---
 
@@ -11,9 +11,12 @@
 
 
 1. How long ago was the last commit?
+The last commit was on Saturday February 24.
 <br><br><br><br>
 
 1. How many people are maintaining the project?
+
+There is roughly 100 people maintaining the project.
 <br><br><br><br>
 
 1. How many contributors has the project had in the past year?
@@ -21,14 +24,21 @@
 
 1. How frequently do people commit? 
 Compute the number of commits per week for the past twelve weeks.
+
+The average number of commits over the past twelve weeks is 22.92 commits.
 <br><br><br><br>
 
 1. How many issues are currently open?
+
+There are 128 issues currently open.
 <br><br><br><br>
 
 1. How long do issues stay open?
 Take the twenty most recently closed issues and look at when each was first reported. 
 Compute the number of days that each was open and take the average.
+
+
+Issues stay open for around 5.1 days.
 <br><br><br><br>
 
 1. Is there active discussion on the issues?
