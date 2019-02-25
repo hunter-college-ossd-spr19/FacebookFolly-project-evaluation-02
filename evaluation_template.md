@@ -1,9 +1,9 @@
-**Project Name**: Folly
+**Project Name**: [Facebook Folly](https://github.com/facebook/folly)
 
 
 ---
 
-**Evaluating Team** (list members): Elijah Augustin
+**Evaluating Team** (list members): Elijah Augustin, Suzen Fylke
 
 ---
 
@@ -14,26 +14,26 @@
 The last commit was on Saturday February 24.
 <br><br><br><br>
 
-1. How many people are maintaining the project?
+2. How many people are maintaining the project?
 
-There is roughly 100 people maintaining the project.
+There are roughly 100 people maintaining the project.
 <br><br><br><br>
 
-1. How many contributors has the project had in the past year?
+3. How many contributors has the project had in the past year?
 <br><br><br><br>
 
-1. How frequently do people commit? 
+4. How frequently do people commit? 
 Compute the number of commits per week for the past twelve weeks.
 
 The average number of commits over the past twelve weeks is 22.92 commits.
 <br><br><br><br>
 
-1. How many issues are currently open?
+5. How many issues are currently open?
 
 There are 128 issues currently open.
 <br><br><br><br>
 
-1. How long do issues stay open?
+6. How long do issues stay open?
 Take the twenty most recently closed issues and look at when each was first reported. 
 Compute the number of days that each was open and take the average.
 
@@ -41,35 +41,43 @@ Compute the number of days that each was open and take the average.
 Issues stay open for around 5.1 days.
 <br><br><br><br>
 
-1. Is there active discussion on the issues?
+7. Is there active discussion on the issues?
+
+Yes. It should be noted, however, that many issues are quick questions about failing builds and trouble with installation, so they only have one or two comments.
 <br><br><br><br>
 
-1. Are issues tagged as easy, hard, etc.?
+8. Are issues tagged as easy, hard, etc.?
+
+No.
 <br><br><br><br>
 
 
-1. Are they triaged?
+9. Are they triaged?
+
+No.
 <br><br><br><br>
 
-1. How many issues were closed in the past six months?
+10. How many issues were closed in the past six months?
+
+There were 23 issues closed in the past six months.
 <br><br><br><br> 
 
-1. How many open pull requests are there? 
+11. How many open pull requests are there? 
 <br><br><br><br>
 
-1. How long are pull requests remaining un-answered?
+12. How long are pull requests remaining un-answered?
 Look at the closed pull requests to see how long they stayed open. Take the twenty most recently closed ones and look at when each was first reported. Compute the number of days that each was open and take the average.
 <br><br><br><br>
 
-1. Is there active discussion on the pull requests?
+13. Is there active discussion on the pull requests?
 Use the same method as you did for the issues.
 <br><br><br><br>
 
-1. How many pull requests were opened within the past month?
+14. How many pull requests were opened within the past month?
 <br><br><br><br>
 
 
-1. How recently were any pull requests accepted and merged? 
+15. How recently were any pull requests accepted and merged? 
 <br><br><br><br>
 
 ### Summary
