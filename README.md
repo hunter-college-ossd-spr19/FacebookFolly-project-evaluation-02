@@ -7,7 +7,7 @@ This activity is intended to be a sprint-like team effort in class.
 The repository contains a file named ``evaluation_template.md`` and a list of 
 projects in a file named `sample_projects.md`.
 The ``evaluation_template.md`` file is a questionnaire to be answered for the
-project that the team has selected. Iyt is restricted to questions about the
+project that the team has selected. It is restricted to questions about the
 level of activity in the project.
 
 1. Everyone should choose a project from the list of projects in the ``sample_projects.md`` file.
