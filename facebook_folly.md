@@ -3,7 +3,7 @@
 
 ---
 
-**Evaluating Team** (list members): Elijah Augustin, Suzen Fylke
+**Evaluating Team** (list members): Elijah Augustin, Suzen Fylke, Andrey Shtukenberg
 
 ---
 
